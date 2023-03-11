@@ -1,8 +1,8 @@
 ---
-title: BlueCart Sales Analytics
-author: Olusegun Ajose
-date updated: 2023-03-11
-keyword: [sales, ecommerce, revenue]
+Title: BlueCart Sales Analytics
+Author: Olusegun Ajose
+Date updated: 2023-03-11
+Keywords: [sales analytics, ecommerce, business intelligence, sales trends]
 ---
 
 ## BlueCart Sales Analytics
