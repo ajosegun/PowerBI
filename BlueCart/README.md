@@ -2,8 +2,10 @@
 
 The "BlueCart Sales Analytics" report provides a comprehensive overview of sales data for BlueCart company using various Power BI visualizations. The report is designed to help the company identify trends and opportunities for improvement in their sales operations.
 
+### 1. *Sales Analysis* Page
 ![BlueCart Sales Analytics](https://raw.githubusercontent.com/ajosegun/PowerBI/main/BlueCart/BlueCart%20Sales%20Analytics_page-0001.jpg)
 
+### 2. *Sales Card* tooltips Page
 ![BlueCart Sales Analytics](https://raw.githubusercontent.com/ajosegun/PowerBI/main/BlueCart/BlueCart%20Sales%20Analytics_page-0002.jpg)
 
 ## Trends and Opportunities 
@@ -21,3 +23,13 @@ The first section of the report provides an overview of important metrics like t
 By identifying these trends, the company can make informed decisions about their sales operations, such as adjusting inventory levels, focusing sales efforts in certain regions, and incentivizing top-performing salespeople.
 
 Overall, the "BlueCart Sales Analytics" report provides a comprehensive overview of sales data for the company and allows the company to identify trends and opportunities for improvement. The visualizations are effective in communicating the data and provide a user-friendly interface for analysis.
+
+
+----------
+
+## Reference
+
+### Power BI/Query Reference
+
+- [Text/csv Connector Reference](https://learn.microsoft.com/en-us/power-query/connectors/text-csv)
+- [Create tooltips based on report pages](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-tooltips?tabs=powerbi-desktop)
