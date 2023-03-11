@@ -2,8 +2,8 @@
 
 The "BlueCart Sales Analytics" report provides a comprehensive overview of sales data for the BlueCart company using various Power BI visualizations. The report is designed to help the company identify trends and opportunities for improvement in their sales operations.
 
-`![alt text](BlueCart Sales Analytics_page-0001.jpg)`
-![alt text](BlueCart Sales Analytics_page-0002.jpg)
+![alt BlueCart Sales Analytics](./BlueCart Sales Analytics_page-0001.jpg)
+![alt BlueCart Sales Analytics](./BlueCart Sales Analytics_page-0002.jpg)
 
 The first section of the report provides a summary of total sales data for the company. This information is presented in a clustered column chart, which shows sales by month for the selected time period. The chart effectively highlights the company's top-performing months, as well as months with lower sales. The chart can be filtered by year to allow for further analysis.
 
@@ -21,13 +21,13 @@ Overall, the "BlueCart Sales Analytics" report provides a comprehensive overview
 
 ## Trends Identified 
 
-Seasonal trends: The clustered column chart of total sales data shows that the company experiences higher sales during certain months of the year, indicating a seasonal trend in customer demand.
+1. Seasonal trends: The clustered column chart of total sales data shows that the company experiences higher sales during certain months of the year, indicating a seasonal trend in customer demand.
 
-Popular product categories: The stacked column chart of sales by product category shows which product categories are most popular with customers, allowing the company to focus their marketing efforts and inventory management accordingly.
+2. Popular product categories: The stacked column chart of sales by product category shows which product categories are most popular with customers, allowing the company to focus their marketing efforts and inventory management accordingly.
 
-Regional sales trends: The choropleth map of sales by state shows which states have the highest sales, allowing the company to focus their sales efforts in those regions.
+3. Regional sales trends: The choropleth map of sales by state shows which states have the highest sales, allowing the company to focus their sales efforts in those regions.
 
-Valuable customer types: The pie chart of sales by customer type shows which customer types generate the highest sales, allowing the company to tailor their marketing strategies and customer acquisition efforts accordingly.
+4. Valuable customer types: The pie chart of sales by customer type shows which customer types generate the highest sales, allowing the company to tailor their marketing strategies and customer acquisition efforts accordingly.
 
 Top-performing salespeople: The donut chart of sales by salesperson shows which salespeople generate the highest sales, allowing the company to incentivize and reward their top performers.
 
