@@ -2,9 +2,9 @@
 
 The "BlueCart Sales Analytics" report provides a comprehensive overview of sales data for the BlueCart company using various Power BI visualizations. The report is designed to help the company identify trends and opportunities for improvement in their sales operations.
 
-![BlueCart Sales Analytics](./BlueCart Sales Analytics_page-0001.jpg)
+![BlueCart Sales Analytics](https://raw.githubusercontent.com/ajosegun/PowerBI/main/BlueCart/BlueCart%20Sales%20Analytics_page-0001.jpg)
 
-![BlueCart Sales Analytics](./BlueCart Sales Analytics_page-0002.jpg)
+![BlueCart Sales Analytics](https://raw.githubusercontent.com/ajosegun/PowerBI/main/BlueCart/BlueCart%20Sales%20Analytics_page-0002.jpg)
 
 The first section of the report provides a summary of total sales data for the company. This information is presented in a clustered column chart, which shows sales by month for the selected time period. The chart effectively highlights the company's top-performing months, as well as months with lower sales. The chart can be filtered by year to allow for further analysis.
 
