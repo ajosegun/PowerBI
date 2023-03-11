@@ -1,3 +1,10 @@
+---
+title: BlueCart Sales Analytics
+author: Olusegun Ajose
+date updated: 2023-03-11
+keyword: [sales, ecommerce, revenue]
+---
+
 ## BlueCart Sales Analytics
 
 The "BlueCart Sales Analytics" report provides a comprehensive overview of sales data for BlueCart company using various Power BI visualizations. The report is designed to help the company identify trends and opportunities for improvement in their sales operations.
