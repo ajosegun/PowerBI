@@ -19,4 +19,12 @@ This project welcomes contributions and suggestions.
 - ### [Bluecart Sales Analysis](./BlueCart/README.md)
 
     ![Bluecart Sales Analysis](https://raw.githubusercontent.com/ajosegun/PowerBI/main/BlueCart/BlueCart%20Sales%20Analytics_page-0001.jpg)
+    
+    
+    
+- ## [Project Management Analysis](https://github.com/ajosegun/PowerBI/blob/main/Project%20Management%20Analytics/README.md)
+
+    ![Project Management Analysis](https://raw.githubusercontent.com/ajosegun/PowerBI/main/Project%20Management%20Analytics/Project%20Management%20Analytics.png)
+
+
 
