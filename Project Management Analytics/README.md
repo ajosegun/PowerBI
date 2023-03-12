@@ -1,22 +1,5 @@
 
----
-Title: Project Management Analytics
-Author: Olusegun Ajose
-Date updated: 2023-03-12
-Keywords: [project management, cost management, business intelligence, budgeting]
----
-
----
-Title: BlueCart Sales Analytics
-Author: Olusegun Ajose
-Date updated: 2023-03-11
-Keywords: [sales analytics, ecommerce, business intelligence, sales trends]
----
-
-
 ## Project Management Analytics
-
-The "BlueCart Sales Analytics" report provides a comprehensive overview of sales data for BlueCart company using various Power BI visualizations. The report is designed to help the company identify trends and opportunities for improvement in their sales operations.
 
 ### 1. *Project Management* Page
 ![Project Management Analytics](https://raw.githubusercontent.com/ajosegun/PowerBI/main/Project%20Management%20Analytics/Project%20Management%20Analytics.png)
